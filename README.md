@@ -69,10 +69,8 @@ Aqui você encontrará:
 
 ## 📈 Progresso
 ```markdown
-[>>>>>>>>>>---------------------------------] 30% Concluído
+[------------------------------------------] 0% Concluído
 ```
-
-*(Vai atualizando a barrinha conforme for avançando!)*
 
 ---
 
