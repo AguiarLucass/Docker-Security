@@ -79,4 +79,3 @@ Este projeto é livre para estudos, melhorias e adaptação. 🚀
 
 ---
 
-# 🚀 Vamos para cima! Bora construir conhecimento na prática! 🐳🛡️
